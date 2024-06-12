@@ -22,15 +22,15 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+# Totales
 <p>
-Mock data Json  - agregar ("resolveJsonModule": true) en "tsconfig.json"
+🚩 Mock data Json  - agregar ("resolveJsonModule": true) en "tsconfig.json"
 </p>
 <p>
-Redis Cache - leep clase
+🚩 Redis Cache - leep clase
 </p>
-
 <p>
-  websockets ,  socketIO
+🚩 websockets ,  socketIO
 </p>
 
 
