@@ -1,6 +1,6 @@
-# 💻 💎 Application -
+# 💻 💎 Application - NEST js
 
-Foobar is a Python library for dealing with word pluralization.
+Prueba con cache-redist al 99%, falta con websockets 0%
 
 ## 📌 Feactures
 
