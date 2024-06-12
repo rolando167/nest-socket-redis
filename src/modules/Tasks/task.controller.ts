@@ -10,8 +10,9 @@ export class TaskController {
     constructor(private taskService: TaskService) { }
 
     @Get('/all')
-    getAll(@Res() res: Response, @Query() query: any): void {
-        res.status(HttpStatus.OK).json(this.taskService.getTasks());
+    getAll(): any {
+        // res.status(HttpStatus.OK).json(this.taskService.getTasks());
+        return this.taskService.getTasks();
     }
 
     @Get(":id")

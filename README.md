@@ -32,6 +32,7 @@
 <p>
 🚩 websockets ,  socketIO
 </p>
+<p> > npm i @nestjs/cache-manager cache-manager</p>
 
 
 
