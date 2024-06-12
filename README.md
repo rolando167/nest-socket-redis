@@ -5,6 +5,7 @@
 ## 📌 Feactures
 
  * ✔ Redis Cache - leep clase
+ * ✔ Leida de archivo .json data mock
  * ✔ websockets ,  socketIO (falta)
 
 ## 🌐 Installation
