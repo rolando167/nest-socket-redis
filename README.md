@@ -27,9 +27,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ## 📝 Notas
 
-Pull requests are welcome.
+Realizado con estructura basica con rutas
 
-Please make sure to update tests as appropriate.
+revisar archivo intro.txt
 
 ## 🖼 Images
   <img src=main.jpg alt="Main"/>
